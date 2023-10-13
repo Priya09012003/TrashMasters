@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494172377565",
+    "project_id": "trashmasters-17794",
+    "storage_bucket": "trashmasters-17794.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494172377565:android:0a02809bbdfad27e606634",
+        "android_client_info": {
+          "package_name": "com.example.trashmasters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi7FHTagTwAnqDKMsNRS8L9LeAFG9LrUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
